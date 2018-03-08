@@ -18,3 +18,6 @@ app项目架构分析博客：[MVP中Model的进一步细化——DataManager](h
 ![](image/image1.png)
 ![](image/image2.png)
 ![](image/image3.png)
+
+
+有意思
